@@ -12,7 +12,6 @@ class App extends Component {
     };
 
     render() {
-        console.log(this.props.filter);
         const {filter, data, selectedItemIndex, selectItem, sendMessage, getMessage, changeFilter} = this.props;
         const filteredData = this.onFilterData(filter, data);
         return (
