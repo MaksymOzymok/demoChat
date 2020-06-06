@@ -1,0 +1,49 @@
+.chatting-list-item{
+    display: flex;
+    align-items: flex-start;
+    height: 60px;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 15px;
+    transition: 0.1s;
+    cursor: pointer;
+    border-bottom: 1px solid gray;
+}
+.chatting-list-item:hover{
+  opacity: 70%;
+}
+.avatar-item{
+    border-radius: 100%;
+    width: 35px;
+}
+.name-item{
+    margin-left: 5px;
+    font-size: 12px;
+    width: 45%;
+
+}
+.message-item{
+    font-size: 10px;
+    color: gray;
+    word-wrap: break-word;
+    position: absolute;
+    width: 70%;
+    top: 40px;
+    left: 55px;
+
+}
+.icon{
+    color: green;
+    position: absolute;
+    left: 38px;
+    top: 45px;
+}
+.date-item{
+    text-align: right;
+    margin-right: 10px;
+    font-size: 10px;
+    color: gray;
+}
+.selected{
+    background: #c9deed;
+}

@@ -1,0 +1,18 @@
+.chatting-list{
+    width: 37%;
+    height: 550px;
+    overflow: auto;
+    border-right: 2px solid gray;
+}
+.chatting-list-header{
+    margin-top: 20px;
+    color: #8cd4ea;
+    margin-left: 10px;
+    font-size: 20px;
+}
+@media (max-width: 1200px) {
+    .chatting-list{
+      width: 100%;
+    }
+
+}

@@ -1,0 +1,16 @@
+.my-message{
+    display: flex;
+    align-items: flex-start;
+    margin-left: auto;
+    margin-right: 0;
+    justify-content: right;
+
+}
+.my-ms{
+    background: #e0e0e0;
+    color: #707070;
+    word-wrap: break-word;
+}
+.my-ms-date{
+    text-align: right;
+}

@@ -1,0 +1,14 @@
+.app{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    border: solid 2px gray;
+}
+
+@media (max-width: 1200px) {
+    .app{
+        width: 100%;
+    }
+}
