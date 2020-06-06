@@ -10,7 +10,7 @@
     border-bottom: 1px solid gray;
 }
 .chatting-list-item:hover{
-  opacity: 70%;
+  background-color: #69baef;
 }
 .avatar-item{
     border-radius: 100%;
