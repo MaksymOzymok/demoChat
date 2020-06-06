@@ -68,7 +68,7 @@ const initialState = {
         },
         {
             id: 3,
-            name: 'Sofia Biletska',
+            name: 'Deni Rem',
             avatar: 'https://randomuser.me/api/portraits/women/68.jpg',
             chatting: []
         },

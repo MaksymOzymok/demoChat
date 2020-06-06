@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2533f7bd-6d77-4042-9c86-0d22ee378b69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1clWKldlRgXsMGCXi6vGaUwKrJG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2533f7bd-6d77-4042-9c86-0d22ee378b69" name="Default Changelist" comment="" />
+      <created>1591103599470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591103599470</updated>
+      <workItem from="1591103608035" duration="32146000" />
+      <workItem from="1591299115504" duration="3785000" />
+      <workItem from="1591349635012" duration="16284000" />
+      <workItem from="1591377189300" duration="15590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591357768273">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="154" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1396.744@0.0.1396.744" timestamp="1591357768273" />
+    <state x="429" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591104182918">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="429" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1396.744@0.0.1396.744" timestamp="1591104182918" />
+    <state width="1375" height="164" key="GridCell.Tab.0.bottom" timestamp="1591475992536">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1375" height="164" key="GridCell.Tab.0.bottom/0.0.1396.744@0.0.1396.744" timestamp="1591475992536" />
+    <state width="1375" height="164" key="GridCell.Tab.0.center" timestamp="1591475992536">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1375" height="164" key="GridCell.Tab.0.center/0.0.1396.744@0.0.1396.744" timestamp="1591475992536" />
+    <state width="1375" height="164" key="GridCell.Tab.0.left" timestamp="1591475992536">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1375" height="164" key="GridCell.Tab.0.left/0.0.1396.744@0.0.1396.744" timestamp="1591475992536" />
+    <state width="1375" height="164" key="GridCell.Tab.0.right" timestamp="1591475992536">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state width="1375" height="164" key="GridCell.Tab.0.right/0.0.1396.744@0.0.1396.744" timestamp="1591475992536" />
+    <state x="355" y="167" key="run.anything.popup" timestamp="1591439983013">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="355" y="167" key="run.anything.popup/0.0.1396.744@0.0.1396.744" timestamp="1591439983013" />
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1591363083898">
+      <screen x="0" y="0" width="1396" height="744" />
+    </state>
+    <state x="361" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1396.744@0.0.1396.744" timestamp="1591363083898" />
+  </component>
+</project>
