@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/demoChat/static/css/main.1b91caa1.chunk.css",
+    "main.css": "/demoChat/static/css/main.a90cc17c.chunk.css",
     "main.js": "/demoChat/static/js/main.43f0410b.chunk.js",
     "main.js.map": "/demoChat/static/js/main.43f0410b.chunk.js.map",
     "runtime-main.js": "/demoChat/static/js/runtime-main.4984b180.js",
@@ -8,15 +8,15 @@
     "static/js/2.7da90d40.chunk.js": "/demoChat/static/js/2.7da90d40.chunk.js",
     "static/js/2.7da90d40.chunk.js.map": "/demoChat/static/js/2.7da90d40.chunk.js.map",
     "index.html": "/demoChat/index.html",
-    "precache-manifest.d1e022e285e2ebf842509041045c228b.js": "/demoChat/precache-manifest.d1e022e285e2ebf842509041045c228b.js",
+    "precache-manifest.03407c9b7306e3bebad66ea137ee6355.js": "/demoChat/precache-manifest.03407c9b7306e3bebad66ea137ee6355.js",
     "service-worker.js": "/demoChat/service-worker.js",
-    "static/css/main.1b91caa1.chunk.css.map": "/demoChat/static/css/main.1b91caa1.chunk.css.map",
+    "static/css/main.a90cc17c.chunk.css.map": "/demoChat/static/css/main.a90cc17c.chunk.css.map",
     "static/js/2.7da90d40.chunk.js.LICENSE.txt": "/demoChat/static/js/2.7da90d40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4984b180.js",
     "static/js/2.7da90d40.chunk.js",
-    "static/css/main.1b91caa1.chunk.css",
+    "static/css/main.a90cc17c.chunk.css",
     "static/js/main.43f0410b.chunk.js"
   ]
 }
